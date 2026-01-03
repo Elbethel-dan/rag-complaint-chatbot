@@ -1,0 +1,13 @@
+week7
+
+data
+
+__pycache__
+
+*.pyc
+.env
+
+.vscode
+.settings.json
+
+.DS_Store
