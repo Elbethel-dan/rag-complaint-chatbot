@@ -11,3 +11,5 @@ __pycache__
 .settings.json
 
 .DS_Store
+
+vector_store/ 
