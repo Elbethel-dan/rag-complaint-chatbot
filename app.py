@@ -28,7 +28,7 @@ def predict(message, history):
         product = meta.get('product', 'N/A')
         issue = meta.get('issue', 'N/A')
         sources += f"- [{c_id}] {product}: {issue}\n"
-    
+
     # Streaming the response (Requirement: Streaming)
     # Note: We use a generator with 'yield' to stream tokens in Gradio
     full_response = ""
