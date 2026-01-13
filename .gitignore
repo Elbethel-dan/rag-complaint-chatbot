@@ -12,11 +12,9 @@ __pycache__
 
 .DS_Store
 vector_store_new/
-
-
-
 faiss.index
 
 metadata.json
+
 
 Mistral-7B-Instruct-v0.3-Q4_K_M.gguf
